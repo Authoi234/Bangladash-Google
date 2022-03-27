@@ -1,0 +1,13 @@
+.margin-t{
+    margin-top: 150px;
+}
+.input-style{
+    width: 40%;
+    height: 39px;
+    border-radius: 50px;
+    border: none;
+    box-shadow: 0 0 10px 5px #c5c5c5;
+    outline: none;
+    padding: 17px;
+    font-size: 20px;
+}
