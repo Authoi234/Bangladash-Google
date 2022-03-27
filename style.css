@@ -11,3 +11,47 @@
     padding: 17px;
     font-size: 20px;
 }
+.YouTube{
+    text-decoration: none;
+    color: red;
+    border-radius: 10px;
+    box-shadow: 0 0 5px 1px rgb(216, 216, 216);
+    padding: 21px 10px;
+}
+.YouTube:hover{
+    font-size: 25px;
+    color: red;
+    background-color: rgb(238, 238, 238);
+    padding: 10px;
+    border-radius: 50px;
+}
+.playstore{
+    margin: 0 25px;
+    text-decoration: none;
+    color: green;
+    border-radius: 10px;
+    box-shadow: 0 0 5px 1px rgb(216, 216, 216);
+    padding: 20px 10px;
+}
+.playstore:hover{
+    font-size: 25px;
+    height: 5%;
+    color: green;
+    background-color: rgb(238, 238, 238);
+    padding: 10px;
+    border-radius: 50px;
+}
+.Map{
+    text-decoration: none;    
+    color: blue;
+    border-radius: 10px;
+    box-shadow: 0 0 5px 1px rgb(216, 216, 216);
+    padding: 21px 20px;
+}
+.Map:hover{
+    font-size: 25px;
+    color: blue;
+    background-color: rgb(238, 238, 238);
+    padding: 10px 15px;
+    border-radius: 50px;
+}
